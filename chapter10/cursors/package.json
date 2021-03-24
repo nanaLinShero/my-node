@@ -2,8 +2,7 @@
     "name": "express-tweet",
     "version": "0.0.1",
     "dependencies": {
-        "express": "2.5.9",
-        "ejs": "0.4.2",
-        "superagent": "0.3.0"
+        "express": "2.5.1",
+        "websocket.io": "0.1.6"
     }
 }
